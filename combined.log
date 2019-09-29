@@ -1,0 +1,9 @@
+info: ---------Logging In as "admin"
+info: ------Opening "http://magento.loc/admin/admin/dashboard/"
+info: ------Getting Current Url
+info: ---------Opening Login Page
+info: ------Opening "http://magento.loc/admin/login"
+info: Sending keys to "User Name"
+info: Sending keys to "Password"
+info: Clicking "Sign In"
+info: ------Getting Current Url
